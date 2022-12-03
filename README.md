@@ -1,4 +1,4 @@
-#Fancy Button Component
+# Fancy Button Component
 
 This is a sample project in which we usue stroybook to create button components.
 
